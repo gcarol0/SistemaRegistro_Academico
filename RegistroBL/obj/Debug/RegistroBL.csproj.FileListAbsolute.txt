@@ -1,0 +1,44 @@
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\bin\Debug\RegistroBL.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\bin\Debug\RegistroBL.pdb
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\bin\Debug\RegistroBOL.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\bin\Debug\RegistroDAL.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\bin\Debug\RegistroBOL.pdb
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\bin\Debug\RegistroDAL.pdb
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.AssemblyReference.cache
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.CoreCompileInputs.cache
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.CopyComplete
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\obj\Debug\RegistroBL.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroBL\obj\Debug\RegistroBL.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\bin\Debug\RegistroBL.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\bin\Debug\RegistroBL.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\bin\Debug\RegistroBOL.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\bin\Debug\RegistroDAL.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\bin\Debug\RegistroBOL.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\bin\Debug\RegistroDAL.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.AssemblyReference.cache
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.CoreCompileInputs.cache
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.Up2Date
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\obj\Debug\RegistroBL.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroBL\obj\Debug\RegistroBL.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\bin\Debug\RegistroBL.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\bin\Debug\RegistroBL.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\bin\Debug\RegistroBOL.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\bin\Debug\RegistroDAL.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\bin\Debug\RegistroBOL.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\bin\Debug\RegistroDAL.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.AssemblyReference.cache
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.CoreCompileInputs.cache
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.CopyComplete
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\obj\Debug\RegistroBL.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroBL\obj\Debug\RegistroBL.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\bin\Debug\RegistroBL.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\bin\Debug\RegistroBL.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\bin\Debug\RegistroBOL.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\bin\Debug\RegistroDAL.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\bin\Debug\RegistroBOL.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\bin\Debug\RegistroDAL.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.AssemblyReference.cache
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.CoreCompileInputs.cache
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\obj\Debug\RegistroBL.csproj.Up2Date
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\obj\Debug\RegistroBL.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroBL\obj\Debug\RegistroBL.pdb

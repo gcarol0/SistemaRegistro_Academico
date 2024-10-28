@@ -1,0 +1,36 @@
+C:\Users\Adaah\source\repos\RegistroApp\RegistroDAL\bin\Debug\RegistroDAL.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroDAL\bin\Debug\RegistroDAL.pdb
+C:\Users\Adaah\source\repos\RegistroApp\RegistroDAL\bin\Debug\RegistroBOL.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroDAL\bin\Debug\RegistroBOL.pdb
+C:\Users\Adaah\source\repos\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.csproj.AssemblyReference.cache
+C:\Users\Adaah\source\repos\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.csproj.CoreCompileInputs.cache
+C:\Users\Adaah\source\repos\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.csproj.CopyComplete
+C:\Users\Adaah\source\repos\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroDAL\bin\Debug\RegistroDAL.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroDAL\bin\Debug\RegistroDAL.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroDAL\bin\Debug\RegistroBOL.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroDAL\bin\Debug\RegistroBOL.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.csproj.AssemblyReference.cache
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.csproj.CoreCompileInputs.cache
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroDAL\obj\Debug\Registro.9B26516E.Up2Date
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroDAL\bin\Debug\RegistroDAL.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroDAL\bin\Debug\RegistroDAL.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroDAL\bin\Debug\RegistroBOL.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroDAL\bin\Debug\RegistroBOL.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.csproj.AssemblyReference.cache
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.csproj.CoreCompileInputs.cache
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.csproj.CopyComplete
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroDAL\bin\Debug\RegistroDAL.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroDAL\bin\Debug\RegistroDAL.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroDAL\bin\Debug\RegistroBOL.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroDAL\bin\Debug\RegistroBOL.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.csproj.AssemblyReference.cache
+C:\Users\quila\Downloads\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.csproj.CoreCompileInputs.cache
+C:\Users\quila\Downloads\RegistroApp\RegistroDAL\obj\Debug\Registro.9B26516E.Up2Date
+C:\Users\quila\Downloads\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroDAL\obj\Debug\RegistroDAL.pdb

@@ -1,0 +1,125 @@
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.exe
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.deps.json
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.runtimeconfig.json
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.pdb
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBL.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBOL.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroDAL.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBL.pdb
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBOL.pdb
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroDAL.pdb
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.AssemblyReference.cache
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.Form1.resources
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.GenerateResource.cache
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.AssemblyInfoInputs.cache
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.AssemblyInfo.cs
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.CoreCompileInputs.cache
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.CopyComplete
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\refint\RegistroApp.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.pdb
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.genruntimeconfig.cache
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\ref\RegistroApp.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adaah\source\repos\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.exe
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.deps.json
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.runtimeconfig.json
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBL.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBOL.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroDAL.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBL.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBOL.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroDAL.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.AssemblyReference.cache
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.GenerateResource.cache
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.AssemblyInfoInputs.cache
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.AssemblyInfo.cs
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.CoreCompileInputs.cache
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\Registro.00BF4644.Up2Date
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\refint\RegistroApp.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.pdb
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.genruntimeconfig.cache
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\ref\RegistroApp.dll
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.FormAlumnos.resources
+C:\Users\quila\Downloads\Trabajo 2\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.FormAsignaturas.resources
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.exe
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.deps.json
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.runtimeconfig.json
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBL.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBOL.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroDAL.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBL.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBOL.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroDAL.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.AssemblyReference.cache
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.FormAlumnos.resources
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.FormAsignaturas.resources
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.GenerateResource.cache
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.AssemblyInfoInputs.cache
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.AssemblyInfo.cs
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.CoreCompileInputs.cache
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.CopyComplete
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\refint\RegistroApp.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.pdb
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.genruntimeconfig.cache
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\ref\RegistroApp.dll
+C:\Users\Adaah\Desktop\Trabajo 2 Const.Software\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.Menu.resources
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.exe
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.deps.json
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.runtimeconfig.json
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBL.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBOL.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroDAL.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBL.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroBOL.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroDAL.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.AssemblyReference.cache
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.FormAlumnos.resources
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.FormAsignaturas.resources
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.Menu.resources
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.GenerateResource.cache
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.AssemblyInfoInputs.cache
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.AssemblyInfo.cs
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.csproj.CoreCompileInputs.cache
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\Registro.00BF4644.Up2Date
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\refint\RegistroApp.dll
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.pdb
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.genruntimeconfig.cache
+C:\Users\quila\Downloads\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\ref\RegistroApp.dll
